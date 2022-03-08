@@ -1,0 +1,3 @@
+com\geektrust\makespace\validators\ValidatorTest.class
+com\geektrust\makespace\controller\MeetingBookingTest.class
+com\geektrust\makespace\controller\RoomAvailabilityTest.class
